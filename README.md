@@ -1,1 +1,1 @@
-# hair-ai-app
+starter
